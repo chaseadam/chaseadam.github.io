@@ -1,0 +1,13 @@
+# Site settings
+title: Chasing Adam's Thoughts and Projects
+email: adam@chasen.name
+description: > # this means to ignore newlines until "baseurl:"
+  A location for me to track my thoughts and projects over time and share them
+  with others who may find them useful.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: chaseadam
+github_username:  chaseadam
+
+# Build settings
+markdown: kramdown
